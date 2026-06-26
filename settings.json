@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shadowxxMC.aternos.me",
-    "port": 46689,
+    "ip": "mystic.falix.app",
+    "port": 22630,
     "version": "1.8.8"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "rizzgod67"
+      "password": "rizz67"
     },
     "anti-afk": {
       "enabled": false,
