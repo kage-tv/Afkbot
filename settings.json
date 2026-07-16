@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mystic.falix.app",
-    "port": 22630,
-    "version": "1.8.8"
+    "ip": "njcs.mcsh.io",
+    "port": 25565,
+    "version": "1.12.2"
   },
   "position": {
     "enabled": true,
