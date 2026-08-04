@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "njcs.mcsh.io",
+    "ip": "shadowzsmp.mcsh.io",
     "port": 25565,
     "version": "1.12.2"
   },
@@ -38,7 +38,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
